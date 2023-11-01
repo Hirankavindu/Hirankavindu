@@ -7,7 +7,7 @@
 
 <table style="border: none;">
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex"></td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="NUX_Octodex"></td>
     <td>
       <h3>About Me</h3>
       <p>Hiran Welagedara, an enterprising undergraduate student at NSBM Green University, is a tech enthusiast specializing in software engineering. Proficient in an array of programming languages such as Flutter, Dart, React, React Native, JavaScript, SQL, C#, Java, and C, Hiran's expertise extends to mobile app development, web development, and UI/UX design. With a fervent dedication to innovation and a deep-rooted passion for technology, Hiran endeavors to master the intricate landscape of software development, aiming to create efficient and user-centric solutions for the modern digital world.</p>
