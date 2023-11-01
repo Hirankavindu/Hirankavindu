@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi.. I am Hiran Welagedara</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
