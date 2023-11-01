@@ -18,12 +18,6 @@
 
 
 
-- 🌱 I’m currently learning **Flutter, Firebase**
-
-- 📫 How to reach me **ohkvmwelagedara@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hiran-welagedara-ba19a4229/](https://www.linkedin.com/in/hiran-welagedara-ba19a4229/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hiran welagedara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiran welagedara" height="30" width="40" /></a>
