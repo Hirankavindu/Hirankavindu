@@ -25,7 +25,7 @@
 <a href="https://www.hackerrank.com/hiran_welagedara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hiran_welagedara" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <table>
   <tr>
     <td>
